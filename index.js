@@ -1,3 +1,3 @@
 module.exports = exports = function hw() {
-  console.log('hello world!');
+  console.log('YOU SHOULDNT SEE THIS');
 };
